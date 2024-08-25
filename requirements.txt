@@ -1,0 +1,2 @@
+discord.py-self==2.4.0
+asyncio-dgram==2.2.0

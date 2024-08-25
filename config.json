@@ -1,0 +1,6 @@
+{
+    "token": "ur token here",
+    "prefix": "the prefix u want here (example ?, !, or , etc",
+    "user_id": "your_user_id (ask me or if you have developer mode on right click ur profile and get ur id (you can also get it from my discord bot !info @youruser))",
+    "delay": "time between sending messages (recommended 2 to avoid rate limiting)"
+}
